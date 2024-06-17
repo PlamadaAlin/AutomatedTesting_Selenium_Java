@@ -1,5 +1,5 @@
 Feature: Guest View
   Scenario: User is able to view the page without loggin in
-    Given User is on the products page
-    When User clicks on a product
+    Given User navigates to the Online products page
+    When User clicks on Formal Shoes drop down
     Then User should view the product

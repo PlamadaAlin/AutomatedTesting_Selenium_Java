@@ -8,4 +8,9 @@ public class HomePage {
         click_sideMenu();
         click_signIn();
     }
+    @Given("User navigates to the Online products page")
+    public void user_navigates_to_the_Online_product_page() throws InterruptedException {
+        click_sideMenu();
+        click_products();
+    }
 }
