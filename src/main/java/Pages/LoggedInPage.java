@@ -1,7 +1,7 @@
 package Pages;
 
-import org.openqa.selenium.By;
 import Utility.BrowserDriver;
+import org.openqa.selenium.By;
 
 import static org.junit.Assert.assertEquals;
 
