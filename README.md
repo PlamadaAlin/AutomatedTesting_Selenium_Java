@@ -1,2 +1,2 @@
-# AutomatedTesting_Cypress_JavaScript
-Automated tests written using Cypress and JavaScript.
+# AutomatedTesting_Selenium_Java
+Automated tests written using Selenium, Cucumber and Java.
